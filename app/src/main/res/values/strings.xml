@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Кузнецов Данил</string>
+    <string name="vhod">Войти</string>
+    <string name="registr">Регистрация</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="name">Имя</string>
+    <string name="fname">Фамилия</string>
+    <string name="rpass">Повторите пароль</string>
+    <string name="zareg">Зарегистрироваться</string>
+    <string name="ymenya">У меня есть аккаунт</string>
+    <string name="wsr">WorldCinema</string>
+</resources>
